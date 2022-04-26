@@ -2,6 +2,8 @@
 
 Adversarial Retriever-Ranker model for Dense Retrieval https://arxiv.org/abs/2110.03611  
 
+
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
