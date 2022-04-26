@@ -1,7 +1,6 @@
 # AR2 Project
 
-Adversarial Retriever-Ranker model for Dense Retrieval https://arxiv.org/abs/2110.03611 
- 
+Adversarial Retriever-Ranker model for Dense Retrieval https://arxiv.org/abs/2110.03611  
 
 ## Contributing
 
