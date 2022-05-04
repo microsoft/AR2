@@ -1,0 +1,12 @@
+apex==0.1
+faiss==1.7.1
+numpy==1.19.2
+pandas==1.2.4
+ptvsd==4.3.2
+regex==2020.1.8
+scikit_learn==1.0.2
+six==1.15.0
+tensorboardX==2.4.1
+torch==1.7.1+cu110
+tqdm==4.62.3
+transformers==4.7.0
