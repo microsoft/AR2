@@ -9,7 +9,7 @@ Starting with AR2, we developed a series of Text-Retrival methods.
 
 - **CodeRetriever: Unimodal and Bimodal Contrastive Learning**, Xiaonan Li, Yeyun Gong, Yelong Shen, Xipeng Qiu, Hang Zhang, Bolun Yao, Weizhen Qi, Daxin Jiang, Weizhu Chen, Nan Duan ***arXiv***, [Code](https://github.com/microsoft/AR2/tree/main/CodeRetriever) [Paper](https://arxiv.org/abs/2201.10866) 
 - **Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings**, Shitao Xiao, Zheng Liu, Weihao Han, Jianjin Zhang, Defu Lian, Yeyun Gong, Qi Chen, Fan Yang, Hao Sun, Yingxia Shao, Denvy Deng, Qi Zhang, Xing Xie, ***SIGIR 2022***, [Code](https://github.com/staoxiao/LibVQ) [Paper](https://arxiv.org/abs/2204.00185)
-- ** Adversarial Retriever-Ranker for Dense Text Retrieval**, Hang Zhang, Yeyun Gong, Yelong Shen, Jiancheng Lv, Nan Duan, Weizhu Chen, ***ICLR 2022***, [Code](https://github.com/microsoft/AR2/tree/main/AR2) [Paper](https://arxiv.org/abs/2110.03611)  
+- **Adversarial Retriever-Ranker for Dense Text Retrieval**, Hang Zhang, Yeyun Gong, Yelong Shen, Jiancheng Lv, Nan Duan, Weizhu Chen, ***ICLR 2022***, [Code](https://github.com/microsoft/AR2/tree/main/AR2) [Paper](https://arxiv.org/abs/2110.03611)  
 
 
 
